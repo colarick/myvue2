@@ -5,6 +5,7 @@ import router from "./router"
 Vue.config.productionTip = false
 //testlocal
 //testorigin
+//test2origin
 new Vue({
   el: "#app",
   store,
