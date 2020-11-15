@@ -11,6 +11,7 @@ Vue.config.productionTip = false
 //test2origin
 
 
+//test3local
 new Vue({
   el: "#app",
   store,
