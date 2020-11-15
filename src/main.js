@@ -6,6 +6,8 @@ Vue.config.productionTip = false
 
 
 
+//test2local
+//test2origin
 
 
 new Vue({
@@ -19,3 +21,4 @@ new Vue({
 
 
 
+//test rebase
