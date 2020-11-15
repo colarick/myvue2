@@ -9,9 +9,12 @@ Vue.config.productionTip = false
 
 //test2local
 //test2origin
+
+
 new Vue({
   el: "#app",
   store,
   router,
   render: h => h(App),
 })
+//test rebase
