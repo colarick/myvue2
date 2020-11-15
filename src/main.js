@@ -15,19 +15,6 @@ Vue.config.productionTip = false;
 //test2origin
 
 
-//test3local
-//maincommit 1
-// main commit 2
-
-//main commit 3
-//main 4
-
-//test2local
-//test2origin
-//2
-
-
-
 new Vue({
   el: "#app",
   store,
@@ -54,3 +41,4 @@ new Vue({
 
 
 //testoneorigin1
+//test rebase
