@@ -4,6 +4,7 @@ import store from "./store";
 import router from "./router"
 Vue.config.productionTip = false
 //testlocal
+//testorigin
 new Vue({
   el: "#app",
   store,
