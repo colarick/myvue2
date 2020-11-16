@@ -1,0 +1,13 @@
+{
+    "name": "lemon",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node-dev ./bin/www"
+    },
+    "dependencies": {
+        "debug": "^4.1.1",
+        "express": "~4.16.0",
+        "mongodb-curd": "^2.0.4"
+    }
+}
