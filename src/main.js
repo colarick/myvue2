@@ -4,7 +4,7 @@ import store from "./store";
 import router from "./router"
 Vue.config.productionTip = false
 //test a
-// 1233
+// 1233679
 new Vue({
   el: "#app",
   store,
