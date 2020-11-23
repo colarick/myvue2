@@ -4,7 +4,7 @@ import store from "./store";
 import router from "./router"
 Vue.config.productionTip = false
 //test a
-// test b
+// hhhhh
 new Vue({
   el: "#app",
   store,
