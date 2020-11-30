@@ -9,10 +9,9 @@ Vue.config.productionTip = false
 //main commit 3
 //main 4
 
-//test2local
-//test2origin
-//2
-//3
+
+
+
 new Vue({
   el: "#app",
   store,
@@ -22,3 +21,9 @@ new Vue({
 //test rebase
 //test rebasemain
 //testone
+
+
+
+
+
+//testoneorigin1
