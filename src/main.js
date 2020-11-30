@@ -5,6 +5,7 @@ import router from "./router";
 Vue.config.productionTip = false
 //maincommit 1
 // main commit 2
+Vue.config.productionTip = false;
 
 //main commit 3
 //main 4
