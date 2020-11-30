@@ -12,6 +12,7 @@ Vue.config.productionTip = false
 
 //test3local
 //maincommit 1
+// main commit 2
 new Vue({
   el: "#app",
   store,
