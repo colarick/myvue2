@@ -3,15 +3,7 @@ import App from './App.vue'
 import store from "./store";
 import router from "./router"
 Vue.config.productionTip = false
-//testlocal
-//testorigin
-
-
-//test2local
-//test2origin
-
-
-//test3local
+//maincommit 1
 new Vue({
   el: "#app",
   store,
